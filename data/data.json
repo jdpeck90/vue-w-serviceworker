@@ -1,0 +1,7 @@
+{
+  "shopping-carts": {
+    "lisa": ["gatorade", "lemonade", "bandaide", "burritto", "hoagie"],
+    "jeff": ["twix", "hershy bar", "dorritos", "salt & vingar", "canned tuna"],
+    "rob": ["snickers", "bananas", "fritos", "lays", "tide"]
+  }
+}
